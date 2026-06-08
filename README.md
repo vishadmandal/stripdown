@@ -123,8 +123,6 @@ This writes `node_modules/stripdown/index.js` into your project. Then update you
 
 ## Roadmap
 
-See [`plan.md`](./plan.md) for the full design document.
-
 ### ✅ Phase 1 — MVP (Complete)
 The full analysis and wrapper-generation pipeline is built.
 
