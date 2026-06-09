@@ -74,7 +74,6 @@ stripdown/
 ├── tests/
 │   ├── utils.test.js
 │   └── fixtures/             # Sample apps for integration testing
-├── plan.md                   # Full design doc and roadmap
 ├── package.json
 └── README.md
 ```
