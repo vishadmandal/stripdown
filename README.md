@@ -191,5 +191,3 @@ This is experimental. The `stripdown` wrapper approach works because Node's modu
 If stripping breaks something, the fallback is always to keep the full original package — safety first.
 
 ---
-
-*Full design document and implementation plan: [`plan.md`](./plan.md)*
